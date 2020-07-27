@@ -1,5 +1,5 @@
 # lambda_deploy
-A python script to help deploying fynctions to aws lambda
+A python script to help deploying functions to aws lambda
 
 ## Intended use
 I created this code to make it easier to upload code to a lambda instance in aws.
